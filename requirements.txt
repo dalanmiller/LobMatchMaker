@@ -1,0 +1,7 @@
+args==0.1.0
+clint==0.4.1
+futures==2.2.0
+oauthlib==0.7.2
+requests==2.6.0
+requests-futures==0.9.5
+requests-oauthlib==0.4.2
